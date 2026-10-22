@@ -56,6 +56,5 @@ export const legale = {
     "RELMAN SRL · STRADA SS. FORTUNATO E LAZZARO 151",
     "36061 BASSANO DEL GRAPPA (VI)",
     "P.IVA E C.F. 04655710244 · REA VI-420213",
-    "CAP. SOC. 4.000 € I.V. · SOCIO UNICO",
   ],
 } as const;
